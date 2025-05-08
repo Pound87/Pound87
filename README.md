@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="https://your-image-url.com/banner.png" alt="Banner" style="width:100%; border-radius: 10px;"/>
 
-<!--
-**Pound87/Pound87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Kevin AKA Pounds
 
-Here are some ideas to get you started:
+I'm a frontend developer skilled in building responsive and user-friendly web applications using modern technologies like **JavaScript**, **React**, **SvelteKit**, **Next.js**, **Tailwind CSS**, **Firebase**, and **MongoDB**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a background in media technology and a strong focus on clean UI/UX, I'm currently working on exciting real-world projects and looking for entry-level frontend opportunities.
+
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-red?logo=svelte)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase)
+
+---
+
+## 🚀 Projects
+
+### 🏎️ Car Rentals Platform
+
+A full-stack car rentals web app built with **Next.js**, **MongoDB**, and **Tailwind CSS**. Features include dynamic listings, booking, filtering, and an admin panel.
+
+<img src="https://your-image-url.com/car-rentals-demo.png" alt="Car Rentals Demo" width="100%"/>
+
+🔗 [Live Demo](https://your-live-site-link.com) • 🧾 [Source Code](https://github.com/your-username/car-rentals)
+
+---
+
+### 🎮 Telegram Mini App (Gamified)
+
+Built with **SvelteKit** + **Firebase**, this interactive mini app allows users to swipe between profile images with live scoring, animations, and leaderboard logic.
+
+<img src="https://your-image-url.com/telegram-mini-app.gif" alt="Telegram Mini App Demo" width="100%"/>
+
+🔗 [Live Demo](https://your-telegram-miniapp-link.com) • 🧾 [Source Code](https://github.com/your-username/telegram-mini-app)
+
+---
+
+## 📫 Let's Connect
+
+- 🌍 Nairobi, Kenya
+- 🌐 [Portfolio Website](https://your-portfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: your.email@example.com
+
+---
+
+*Thanks for stopping by! Feel free to check out my pinned projects below 👇*
+
