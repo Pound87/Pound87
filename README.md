@@ -46,7 +46,7 @@ Built with **SvelteKit** + **Firebase**, this interactive mini app allows users 
 ## 📫 Let's Connect
 
 - 🌍 Nairobi, Kenya
-- 💼 [LinkedIn]linkedin.com/in/ondo-kevin-8a9400176
+- 💼 [LinkedIn](https://www.linkedin.com/in/ondo-kevin-8a9400176)  
 
 - 📧 Email: ondokevin87@gmail.com
 
